@@ -1,4 +1,13 @@
+TAMPILAN HOME 
+![2022-07-10 (2)](https://user-images.githubusercontent.com/73018379/178135128-78e51617-fe82-47ad-9062-f9dca64de503.png)
+TAMPILAN DATA WARGA 
+![2022-07-10 (3)](https://user-images.githubusercontent.com/73018379/178135146-9f61fc39-50eb-4598-b7c3-e02fbd741bf0.png)
+TAMPILAN DATA PANITIA
+![2022-07-10 (4)](https://user-images.githubusercontent.com/73018379/178135151-dbe096cf-ed73-44d2-bf35-c51bc9645f77.png)
+TAMPILAN PEMASUKAN
+![2022-07-10 (5)](https://user-images.githubusercontent.com/73018379/178135156-f8ac4863-aefe-4a6a-b9bc-c0eb7c55d1cc.png)
 
+CODING UNTUK VIEW / TAMPILAN APLIKASI AWAL HOME
 # UAS-IURAN-KAS-TERUPDATE-
 <?php
 
